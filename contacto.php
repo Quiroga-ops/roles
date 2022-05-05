@@ -7,6 +7,12 @@
     <title>Contacto</title>
 </head>
 <body>
+
+
+
+
+
+
 <?php include("./templates/header.php");?>
 </body>
 </html>
