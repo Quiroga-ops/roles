@@ -76,7 +76,7 @@
         <div class="card text-align align-items-center">
             <img class="card-img-top" src="img/cronograma.png" style="width: 300px; height:300px;">
             <div class="card-body">
-            <a href="#" class="btn btn-primary">Cronograma</a>
+            <a href="#" class="btn btn-primary">PEPITA</a>
             </div>
         </div>
     </div><!--end-col1-->
