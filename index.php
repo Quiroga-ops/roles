@@ -16,7 +16,8 @@
 <body>
 <?php include("./templates/header.php");?>
 <h1>hola</h1>
-este es el index :V
+este es el index :V 
+<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reprehenderit libero at sint facilis, dolorem quibusdam assumenda rem iusto et sed eligendi quaerat nemo eius cupiditate! Dolor voluptates sapiente fugit repudiandae.</p>
 
 
 
