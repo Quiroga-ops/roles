@@ -31,7 +31,7 @@ else{
     include("home.php");
     
     ?>
-<h1 class="bad">ERROR EN LA AUTENTIFICACION</h1>
+<h1>ERROR EN LA AUTENTIFICACION</h1>
     <?php
 }
 mysqli_free_result($resultado);

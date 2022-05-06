@@ -20,7 +20,6 @@ class App{
 
         }else{
             $controller = new Eror();
-            //$controller = new Error();
         }
 
         
