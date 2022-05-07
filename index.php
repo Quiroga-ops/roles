@@ -18,7 +18,7 @@
 <h1>hola</h1>
 este es el index :V 
 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reprehenderit libero at sint facilis, dolorem quibusdam assumenda rem iusto et sed eligendi quaerat nemo eius cupiditate! Dolor voluptates sapiente fugit repudiandae.</p>
-
+<p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Repudiandae quae, facere architecto nihil autem aut, hic quas corrupti, voluptatem blanditiis laboriosam laborum deleniti illum porro officia? Quas soluta accusantium qui!</p>
 
 
 
