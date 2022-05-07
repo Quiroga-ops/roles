@@ -1,0 +1,11 @@
+.sidebar{
+    background-color: #143266;
+    color: white;
+}
+.rol:hover, .rol{
+    text-decoration: none;
+    color:aliceblue;
+}
+.nav-link{
+    color: aliceblue;
+}

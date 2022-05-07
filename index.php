@@ -22,7 +22,7 @@ este es el index :V
 
 <h3>mi repositorio no sube al tuyo</h3>
 Lorem ipsum, dolor sit amet consectetur adipisicing elit. Hic, est voluptatem? Iste placeat qui commodi illo consequuntur, laboriosam consequatur ipsum, assumenda a ipsam reiciendis porro natus quia id. Pariatur, similique?
-
+<h1>NADER CARE CHIMBO</h1>
 
 <?php include("templates/footer.php");?>
 </body>
